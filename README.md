@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate backend developer from Paris</h3>
+<h3 align="center">A passionate frontend developer from Paris</h3>
 
 - 🔭 I’m currently working on **a new website to promote more of my home island artists**
 
-- 🌱 I’m currently learning **front end using React**
+- 🌱 I’m currently learning **front end using Angular**
 
 - 📫 How to reach me **lukas.de.vipart@gmail.com**
 
